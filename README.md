@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -60,3 +61,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Car-Rental-Website
+The Car Rental Website is a PHP-based web application built on the Laravel framework. Its primary purpose is to provide users with a seamless platform for renting vehicles, including cars and bikes, for various needs. 
+>>>>>>> 9ab560f160e84395a71e00fd012d338ab75061aa
